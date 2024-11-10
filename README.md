@@ -15,7 +15,7 @@ I am a Mechatronics graduate with some knowledge in areas like machine learning,
 - Agents
 
 # :book: Interests and Hobbies:
-- Reading fantasy books (3+ year member of an international book club, reading 10+ books/year)
+- Local book club member
 - Gym and fitness enthusiast
 - Writing short stories
   
