@@ -7,16 +7,14 @@ I am a Mechatronics graduate with some knowledge in areas like machine learning,
 
 # 🔭 I’m currently working on:
 - Arabic audiobook generator
-- An agent that can write my thesis
+- iLMM (a chatgpt like mobile app that answers religious questions)
   
 # 🌱 I’m currently learning:
-- A deeper look into the math behind transformers 
-- Large multimodal models
-- Agents
+- Revising data structures and algorithms
+- Investing --> low latency trading 
 
 # :book: Interests and Hobbies:
 - Local book club member
-- Gym and fitness enthusiast
 - Writing short stories
   
 # 📫 How to reach me: 
